@@ -17,7 +17,7 @@ See [sample.js](./sample.js)
 Before using, you have to import it in your project first
 
 ```js
-const GF = require('gf-js')
+const GF = require('gf-combination-js')
 ```
 After that all functions is pluged-in to `Array` and `Generator` and you can use it any where.
 
