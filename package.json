@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/namdn/gf-combination-js#readme",
   "dependencies": {
-    "gf-js": "^1.0.1"
+    "gf-js": "^1.0.3"
   }
 }

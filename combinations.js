@@ -8,9 +8,9 @@ const GF = require('gf-js');
  * @param {Number} repeat number of time repeat
  */
 GF.iproduct = function* iproduct(iterables, repeat = 1) {
-    function __dot(accumulator, iterable) {
+    function *__dot(accumulator, iterable) {
         for (let arr of accumulator) {
-            yield * iterable.map(v => [...arr, v]);
+            yield* iterable.map(v => [...arr, v]);
         }
     }
 
