@@ -17,9 +17,9 @@ See [sample.js](./sample.js)
 Before using, you have to import it in your project first
 
 ```js
-const GF = require('gf-combination-js')
+const GF = require('gf-js')
 ```
-After that all functions is pluged-in to Array class and you can use it any where.
+After that all functions is pluged-in to `Array` and `Generator` and you can use it any where.
 
 ### `Array.product(iterables, repeat = 1)` and `Array.iproduct(iterables, repeat = 1)`
 Cartesian product of input iterables.
