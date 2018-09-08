@@ -1,6 +1,6 @@
 {
   "name": "gf-combination-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Combination functions for Array and Generator",
   "main": "combinations.js",
   "scripts": {

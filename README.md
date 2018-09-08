@@ -1,11 +1,26 @@
 # gf-combination-js
 All combinations function for Array and Generator
 
+Install with:
+```
+npm install gf-combination-js --save
+```
+
 ## How to use?
 
 See [sample.js](./sample.js)
 
 ## API
+
+### Initialize
+
+Before using, you have to import it in your project first
+
+```js
+const GF = require('gf-combination-js')
+```
+After that all functions is pluged-in to Array class and you can use it any where.
+
 ### `Array.product(iterables, repeat = 1)` and `Array.iproduct(iterables, repeat = 1)`
 Cartesian product of input iterables.
 ```js
