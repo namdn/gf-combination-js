@@ -1,0 +1,28 @@
+{
+  "name": "gf-combination-js",
+  "version": "1.0.0",
+  "description": "Combination functions for Array and Generator",
+  "main": "combinations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namdn/gf-combination-js.git"
+  },
+  "keywords": [
+    "Generator",
+    "Combination",
+    "Product",
+    "Permutation"
+  ],
+  "author": "dinhnhonam@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namdn/gf-combination-js/issues"
+  },
+  "homepage": "https://github.com/namdn/gf-combination-js#readme",
+  "dependencies": {
+    "gf-js": "^1.0.1"
+  }
+}
