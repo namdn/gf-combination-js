@@ -1,6 +1,6 @@
 {
   "name": "gf-combination-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Combination functions for Array and Generator",
   "main": "combinations.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/namdn/gf-combination-js#readme",
   "dependencies": {
-    "gf-js": "^1.0.4"
+    "gf-js": "^1.0.5"
   }
 }
